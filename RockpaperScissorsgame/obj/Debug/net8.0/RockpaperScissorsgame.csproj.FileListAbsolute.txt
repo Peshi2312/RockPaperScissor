@@ -1,0 +1,14 @@
+C:\Users\Peshi\Desktop\Test\RockpaperScissorsgame\RockpaperScissorsgame\bin\Debug\net8.0\RockpaperScissorsgame.exe
+C:\Users\Peshi\Desktop\Test\RockpaperScissorsgame\RockpaperScissorsgame\bin\Debug\net8.0\RockpaperScissorsgame.deps.json
+C:\Users\Peshi\Desktop\Test\RockpaperScissorsgame\RockpaperScissorsgame\bin\Debug\net8.0\RockpaperScissorsgame.runtimeconfig.json
+C:\Users\Peshi\Desktop\Test\RockpaperScissorsgame\RockpaperScissorsgame\bin\Debug\net8.0\RockpaperScissorsgame.dll
+C:\Users\Peshi\Desktop\Test\RockpaperScissorsgame\RockpaperScissorsgame\bin\Debug\net8.0\RockpaperScissorsgame.pdb
+C:\Users\Peshi\Desktop\Test\RockpaperScissorsgame\RockpaperScissorsgame\obj\Debug\net8.0\RockpaperScissorsgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peshi\Desktop\Test\RockpaperScissorsgame\RockpaperScissorsgame\obj\Debug\net8.0\RockpaperScissorsgame.AssemblyInfoInputs.cache
+C:\Users\Peshi\Desktop\Test\RockpaperScissorsgame\RockpaperScissorsgame\obj\Debug\net8.0\RockpaperScissorsgame.AssemblyInfo.cs
+C:\Users\Peshi\Desktop\Test\RockpaperScissorsgame\RockpaperScissorsgame\obj\Debug\net8.0\RockpaperScissorsgame.csproj.CoreCompileInputs.cache
+C:\Users\Peshi\Desktop\Test\RockpaperScissorsgame\RockpaperScissorsgame\obj\Debug\net8.0\RockpaperScissorsgame.dll
+C:\Users\Peshi\Desktop\Test\RockpaperScissorsgame\RockpaperScissorsgame\obj\Debug\net8.0\refint\RockpaperScissorsgame.dll
+C:\Users\Peshi\Desktop\Test\RockpaperScissorsgame\RockpaperScissorsgame\obj\Debug\net8.0\RockpaperScissorsgame.pdb
+C:\Users\Peshi\Desktop\Test\RockpaperScissorsgame\RockpaperScissorsgame\obj\Debug\net8.0\RockpaperScissorsgame.genruntimeconfig.cache
+C:\Users\Peshi\Desktop\Test\RockpaperScissorsgame\RockpaperScissorsgame\obj\Debug\net8.0\ref\RockpaperScissorsgame.dll
